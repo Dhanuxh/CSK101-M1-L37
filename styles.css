@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;900&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png);
+   text-align: center;
+   font-family: "poppins", sans-serif;
+   color: white;
+   background-size: cover;
+}
+#logo{
+    width:auto;
+    margin-top: 5vh;
+}
+section{
+    margin: 10vh auto;
+}
+h1{
+    font-size: 100px;
+    font-weight: bolder;
+}
+#team1{
+    display: inline-block;
+    background-color: blue;
+    border-radius: 50px;
+    margin: 40px;
+
+}
+#team2{
+    display: inline-block;
+   background-color: green;
+   border-radius: 50px;
+   margin: 40px;
+}
+.ball{
+    display: inline-block;
+    border-radius: 50%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 20px;
+}
+.scoreboard{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.button{
+    width: 200px;
+    cursor: pointer;
+    margin: 0 30px;
+}
+.score{
+    padding: 30px;
+    height: auto;
+    margin: 0 30px;
+    border-radius: 50px;
+}
+#team1-super
+#team2-super{
+    margin: 20px;
+}
+#buttons{
+    width: ;
+}
